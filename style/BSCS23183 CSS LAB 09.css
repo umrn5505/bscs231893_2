@@ -1,0 +1,39 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.centered{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    text-size-adjust: 40%;
+}
+.contact us{
+    background-color: beige;
+    font: optional;
+}
+.Location{
+    background-color: aqua;
+    font-size: medium;
+}
+.Esmail{
+    background-color: beige;
+    font-style: oblique;
+}
+.cell{
+    background-color: pink;
+    font-size: smaller;
+}
+.contact us{
+    background-color: coral;
+    font-size: medium;
+    text-overflow: inherit;
+}
+.button{
+    background-color: antiquewhite;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
